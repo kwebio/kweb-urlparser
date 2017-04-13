@@ -15,6 +15,7 @@ plugins {
 }
 
 apply {
+    plugin("maven")
     plugin("kotlin")
 }
 
